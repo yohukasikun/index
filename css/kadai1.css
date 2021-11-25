@@ -10,7 +10,9 @@ img {max-width: 100%;}
 
 li {list-style: none;}
 
-.pro {text-align: center;}
+.pro {text-align: center;
+      font-size: 1rem;
+      margin: 100px;}
 
 .site-title {width: 120px;
              line-height: 1px;
