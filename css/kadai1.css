@@ -11,7 +11,9 @@ img {max-width: 100%;}
 li {list-style: none;}
 
 .pro {font-size: 1rem;
-      margin: 100px;}
+      margin-top: 100px;
+      margin-bottom: 100px;
+      text-align: center;}
 
 .site-title {width: 120px;
              line-height: 1px;
